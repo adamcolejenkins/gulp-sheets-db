@@ -1,0 +1,9 @@
+{
+  "name": "gulp-sheets-db",
+  "version": "1.0.0",
+  "description": "Gulp module to load files from Google Spreadsheets",
+  "main": "index.js",
+  "repository": "https://github.com/adamcolejenkins/gulp-sheets-db",
+  "author": "Adam Jenkins <adamcole83@gmail.com>",
+  "license": "MIT"
+}
